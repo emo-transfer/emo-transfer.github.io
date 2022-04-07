@@ -45,7 +45,6 @@ controlling emotion strength.
 | Happy       | <audio controls><source src='./assets/kor_m_seen_happy.wav'></audio> | <audio controls><source src='./assets/kor_m_seen_happy_gstmean.wav'></audio>  |
 
 #### English
-
 | Emotion     | Proposed    | Style Mean    |
 |   :----:    |    :----:   |     :----:    |
 | Neutral     | <audio controls><source src='./assets/eng_f_seen.wav'></audio> |
@@ -56,7 +55,7 @@ controlling emotion strength.
 
 ### Controlling Emotion Strength
 
-| Emotion     | $\alpha = 1.0$    | $\alpha = 1.5$ | $\alpha = 2.0$ | $\alpha = 2.5$ |
+| Emotion     | $$\alpha = 1.0$$    | $$\alpha = 1.5$$ | $$\alpha = 2.0$$ | $$\alpha = 2.5$$ |
 |   :----:    |    :----:   |     :----:    |     :----:    |     :----:    |
 | Angry       | <audio controls><source src='./assets/kor_f_unseen_angry10.wav'></audio> | <audio controls><source src='./assets/kor_f_unseen_angry15.wav'></audio>  | <audio controls><source src='./assets/kor_f_unseen_angry20.wav'></audio>  | <audio controls><source src='./assets/kor_f_unseen_angry25.wav'></audio>  |
 | Sad         | <audio controls><source src='./assets/kor_f_unseen_sad10.wav'></audio> | <audio controls><source src='./assets/kor_f_unseen_sad15.wav'></audio>  | <audio controls><source src='./assets/kor_f_unseen_sad20.wav'></audio>  | <audio controls><source src='./assets/kor_f_unseen_sad25.wav'></audio>  |
