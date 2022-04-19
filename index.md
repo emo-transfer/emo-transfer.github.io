@@ -49,10 +49,10 @@ controlling emotion strength.
 | Emotion     | Proposed    | Style Mean    |
 |   :----:    |    :----:   |     :----:    |
 | Neutral     | <audio controls><source src='./assets/eng_f_seen.wav'></audio> ||
-| Angry       | <audio controls><source src='./assets/eng_f_seen_angry.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_angry_gstmean.wav'></audio>  |
-| Sad         | <audio controls><source src='./assets/eng_f_seen_sad.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_sad_gstmean.wav'></audio>  |
-| Happy       | <audio controls><source src='./assets/eng_f_seen_happy.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_happy_gstmean.wav'></audio>  |
-| Surprise    | <audio controls><source src='./assets/eng_f_seen_surprise.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_surprise_gstmean.wav'></audio>  |
+| Angry       | <audio controls><source src='./assets/eng_f_seen_angry15.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_angry_gstmean.wav'></audio>  |
+| Sad         | <audio controls><source src='./assets/eng_f_seen_sad15.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_sad_gstmean.wav'></audio>  |
+| Happy       | <audio controls><source src='./assets/eng_f_seen_happy15.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_happy_gstmean.wav'></audio>  |
+| Surprise    | <audio controls><source src='./assets/eng_f_seen_surprise15.wav'></audio> | <audio controls><source src='./assets/eng_f_seen_surprise_gstmean.wav'></audio>  |
 
 ### Controlling Emotion Strength
 
