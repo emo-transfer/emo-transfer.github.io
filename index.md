@@ -45,6 +45,7 @@ controlling emotion strength.
 | Happy       | <audio controls><source src='./assets/kor_m_seen_happy.wav'></audio> | <audio controls><source src='./assets/kor_m_seen_happy_gstmean.wav'></audio>  |
 
 #### English
+
 | Emotion     | Proposed    | Style Mean    |
 |   :----:    |    :----:   |     :----:    |
 | Neutral     | <audio controls><source src='./assets/eng_f_seen.wav'></audio> ||
