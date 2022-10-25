@@ -46,8 +46,8 @@ We transfer emotion to an emotion-neutral reading style speaker.
 
 ### w/o Adversarial Speaker Classifier
 
-| Emotion     | Proposed    | Style Mean    |
-|   :----:    |    :----:   |     :----:    |
+| Emotion     | Proposed    |
+|   :----:    |    :----:   |
 | Neutral     | <audio controls><source src='./assets/nts-eng_M_abl1_neutral.wav'></audio> |
 | Angry       | <audio controls><source src='./assets/nts-eng_M_abl1_angry.wav'></audio> |
 | Sad         | <audio controls><source src='./assets/nts-eng_M_abl1_sad.wav'></audio> |
