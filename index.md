@@ -12,17 +12,17 @@ We transfer emotion to an emotion-neutral reading style speaker.
 | Target Emotion     | Proposed    | Style Mean    |
 |   :----:    |    :----:   |     :----:    |
 | Neutral     | <audio controls><source src='./assets/xtine_100shot_neutral.wav'></audio> | <audio controls><source src='./assets/xtine_base_neutral.wav'></audio>  |
-| | Angry       | <audio controls><source src='./assets/xtine_100shot_angry.wav'></audio> | <audio controls><source src='./assets/xtine_base_angry.wav'></audio>  |
-| | Sad         | <audio controls><source src='./assets/xtine_100shot_sad.wav'></audio> | <audio controls><source src='./assets/xtine_base_sad.wav'></audio>  |
-| | Happy       | <audio controls><source src='./assets/xtine_100shot_happy.wav'></audio> | <audio controls><source src='./assets/xtine_base_happy.wav'></audio>  |
+| Angry       | <audio controls><source src='./assets/xtine_100shot_angry.wav'></audio> | <audio controls><source src='./assets/xtine_base_angry.wav'></audio>  |
+| Sad         | <audio controls><source src='./assets/xtine_100shot_sad.wav'></audio> | <audio controls><source src='./assets/xtine_base_sad.wav'></audio>  |
+| Happy       | <audio controls><source src='./assets/xtine_100shot_happy.wav'></audio> | <audio controls><source src='./assets/xtine_base_happy.wav'></audio>  |
 
 
 | Target Emotion     | Proposed    | Style Mean    |
 |   :----:    |    :----:   |     :----:    |
 | Neutral     | <audio controls><source src='./assets/iyuno-ko-m1_100shot_neutral.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_neutral.wav'></audio> |
-| | Angry       | <audio controls><source src='./assets/iyuno-ko-m1_100shot_angry.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_angry.wav'></audio>  |
-| | Sad         | <audio controls><source src='./assets/iyuno-ko-m1_100shot_sad.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_sad.wav'></audio>  |
-| | Happy       | <audio controls><source src='./assets/iyuno-ko-m1_100shot_happy.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_happy.wav'></audio>  |
+| Angry       | <audio controls><source src='./assets/iyuno-ko-m1_100shot_angry.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_angry.wav'></audio>  |
+| Sad         | <audio controls><source src='./assets/iyuno-ko-m1_100shot_sad.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_sad.wav'></audio>  |
+| Happy       | <audio controls><source src='./assets/iyuno-ko-m1_100shot_happy.wav'></audio> | <audio controls><source src='./assets/iyuno-ko-m1_base_happy.wav'></audio>  |
 
 ### One-shot emotion transfer
 
