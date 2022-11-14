@@ -1,3 +1,6 @@
+---
+layout: post
+---
 ## Demo Page
 ## Abstract
 
