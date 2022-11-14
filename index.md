@@ -68,7 +68,7 @@ We transfer emotion to an emotion-neutral reading style speaker.
 
 ## Controlling Emotion Strength
 
-| Emotion     | alpha = 0.0    | alpha = 0.5 | alpha = 1.0 | alpha = 1.5 | alpha = 2.0 | 
+| <div style="width:100px">Emotion</div> | alpha = 0.0    | alpha = 0.5 | alpha = 1.0 | alpha = 1.5 | alpha = 2.0 | 
 |   :----:    |    :----:   |     :----:    |     :----:    |     :----:    |      :----:    |
 | Angry       | <audio controls><source src='./assets/seungjun_angry0.wav'></audio> | <audio controls><source src='./assets/seungjun_angry0.5.wav'></audio>  | <audio controls><source src='./assets/seungjun_angry1.0.wav'></audio>  | <audio controls><source src='./assets/seungjun_angry1.5.wav'></audio>  | <audio controls><source src='./assets/seungjun_angry2.0.wav'></audio>  | 
 | Sad         | <audio controls><source src='./assets/xtine_sad0.wav'></audio> | <audio controls><source src='./assets/xtine_sad0.5.wav'></audio>  | <audio controls><source src='./assets/xtine_sad1.0.wav'></audio>  | <audio controls><source src='./assets/xtine_sad1.5.wav'></audio>  | <audio controls><source src='./assets/xtine_sad2.0.wav'></audio>  |
