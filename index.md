@@ -11,7 +11,7 @@ In recent years, emotional text-to-speech has shown considerable progress. Howev
 Note that all target speakers below are emotion-neutral reading style speakers.
 Along with reading style speakers, we trained our model with a variety of speaking styles such as animation dubbing, whispering or screaming which are atypical for TTS dataset.
 Averaging style vectors (Style Mean) showed poor performance when trained with our data, often failing to maintain speaker identity, while it worked well in terms of speaker identity when trained with emotion-neutral datasets only.
-Also, note that generated sentences below are not in the dataset, so contents of a ground truth audio file do not match with the generated file.
+Also, note that generated sentences below are not in the dataset, so contents of a ground truth audio file do not match with the generated file. All the files from the proposed model are generated with alpha (emotion intensity) 1.5 when alpha (emotion intensity) is not described.
 
 | Target Emotion  | Ground Truth    | Proposed    | Style Mean    |
 |   :----:    |    :----:   |    :----:   |     :----:    |
