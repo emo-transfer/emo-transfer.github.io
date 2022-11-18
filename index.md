@@ -46,6 +46,7 @@ Also, note that generated sentences below are not in the dataset, so contents of
 | Happy       | <audio controls style="width: 200px;"><source src='./assets/ntis-eng_F_happy0.wav'></audio> | <audio controls style="width: 200px;"><source src='./assets/ntis-eng_F_happy0.5.wav'></audio>  | <audio controls style="width: 200px;"><source src='./assets/ntis-eng_F_happy1.0.wav'></audio>  | <audio controls style="width: 200px;"><source src='./assets/ntis-eng_F_happy1.5.wav'></audio>  | <audio controls style="width: 200px;"><source src='./assets/ntis-eng_F_happy2.0.wav'></audio>  |
 
 ## Controlling Emotion (negative direction)
+alpha (emotion intensity) is not applied for a neutral sample
 
 | Emotion     | positive (alpha=1.0)   | negative (alpha=-1.0) |
 |   :----:    |    :----:   |    :----:   |    
